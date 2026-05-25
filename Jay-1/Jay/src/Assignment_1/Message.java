@@ -7,6 +7,7 @@
 package Assignment_1;
 
 import java.io.FileWriter;
+
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
